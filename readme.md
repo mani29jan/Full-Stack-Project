@@ -12,7 +12,7 @@ Inspired by an excess of movie watching in quarintine during the COVID 19 pandem
 1. Open the terminal application and navigate to the directory where you will save the application.
 2. Clone the repository to your machine:
 ```
-git clone https://github.com/mani29jan/Full-Stack-Project.git
+git clone https://github.com/mani29jan/quiz-app.git
 ```
 3. Open the application's development environment in your code editor:
 ```

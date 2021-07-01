@@ -27,6 +27,7 @@ code .
 
 ## Credit
 This application was created by:
+https://github.com/mani29jan
 
 https://github.com/DevinPask
 
@@ -35,8 +36,6 @@ https://github.com/campbefs
 https://github.com/ncortes85
 
 https://github.com/angeeg
-
-https://github.com/mani29jan
 
 ## License
 BSD_3
